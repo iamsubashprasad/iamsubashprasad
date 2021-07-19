@@ -8,12 +8,12 @@ I'm Subash Prasad a RPA Developer and Content Creator on [Youtube](https://youtu
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Deloitte
+- 🔭 I’m currently working at @Deloitte USI
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding usecase ideas.
 - 📫 How to reach me: iamsubashprasad@gmail.com.
 - 😄 Pronouns: CoderOne, subbu, RPA Master.
-- ⚡ Fun fact: I play badminton games and go to the hicking very often.
+- ⚡ Fun fact: I play badminton games and goes to the hicking very often.
 
 #### Top Technologies
 
@@ -70,7 +70,7 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 #### What is DigitalUniversityonline?
 
-DigitalUniversityonline is a online gurukul who wants to learn the RPA technology along with new technologies and frameworks and anything really related to development world.
+DigitalUniversityonline is a online gurukul who wants to learn the RPA technology along with new trends and frameworks and anything really related to development world.
 
 #### Coding Stats
 
