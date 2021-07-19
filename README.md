@@ -77,10 +77,10 @@ DigitalUniversityonline is a online gurukul who wants to learn the RPA technolog
 <!--START_SECTION:waka-->
 ```text
 UIPath       15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Python       1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 C#           1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-SQL          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+SQL          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Others       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
 
