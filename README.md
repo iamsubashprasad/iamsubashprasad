@@ -47,7 +47,7 @@ I'm Subash Prasad a RPA Developer and Content Creator on [Youtube](https://youtu
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=iamsubashprasad/iamsubashprasad/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=iamsubashprasad.iamsubashprasad)
 
 <details>
 <summary>
