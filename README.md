@@ -1,6 +1,6 @@
 ## Hi I'm Subash <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Subash Prasad a RPA Developer and Content Creator on [Youtube](https://youtube.com/subash). I Spend most of time developing outstanding projects or recording tutorials.
+A passionate RPA developer and a youtuber from India. My passion for software lies with dreaming up ideas and making them come true with intelligent BOT's . I take great care in the experience, architecture, and code quality of the things I build.
 
 :mailbox: Reach me out!
 
@@ -65,18 +65,23 @@ DigitalUniversityonline is a online gurukul who wants to learn the RPA technolog
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-UIPath       15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-Python       1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-C#           1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-SQL          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Others       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsubashprasad&theme=blue-green)
+ 
+ 
+ 
+ <!--END_SECTION:waka-->
 
 #### Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsubashprasad&theme=synthwave)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsubashprasad&theme=merko)
+
+#### GitHub Trophies
+
+<p align="left">
+  <a href="https://github.com/iamsubashprasad" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=iamsubashprasad&theme=gruvbox&layout=compact&title_color=00FF00"/>
+  </a>
+</p>
 
 </details>
 
