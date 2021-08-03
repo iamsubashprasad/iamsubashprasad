@@ -76,7 +76,7 @@ Others       2 mins          ░░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-![Subash's github stats](https://github-readme-stats.vercel.app/api?username=iamsubashprasad&count_private=true&theme=tokyonight&hide=contribs,prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsubashprasad&theme=synthwave)
 
 </details>
 
