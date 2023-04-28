@@ -15,91 +15,27 @@
 - 😄 Pronouns: CoderOne, subbu, RPA Master.
 - ⚡ Fun fact: I play badminton games and goes to the hicking very often.
 
-#### Top Technologies
 
-<!-- TODO: Make technologies links takes you to repositories -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subash-prasad-deloitte) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamsubashprasad&theme=alduin&no-frame=false&no-bg=true&margin-w=4)
-
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamsubashprasad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamsubashprasad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsubashprasad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=iamsubashprasad&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamsubashprasad&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsubashprasad&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamsubashprasad&theme=alduin&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=iamsubashprasad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iamsubashprasad&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=iamsubashprasad&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iamsubashprasad&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=iamsubashprasad&icon=9&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### Skills Acquired
-
-[<img align="left" alt="C#" width="50px" src="https://github.com/iamsubashprasad/iamsubashprasad/blob/407ef737dee5ef9e51c1bc3d6257fb6e0eb204e1/Dotnet.png" />][reactplaylist]
-
-[<img align="left" alt="Visual Studio Code" width="45px" src="https://github.com/iamsubashprasad/iamsubashprasad/blob/407ef737dee5ef9e51c1bc3d6257fb6e0eb204e1/uipath_git.jpg" />][vscodetutorial]
-
-[<img align="left" alt="HTML5" width="50px" src="https://github.com/iamsubashprasad/iamsubashprasad/blob/407ef737dee5ef9e51c1bc3d6257fb6e0eb204e1/Python.png" />][htmltutorial]
-
-[<img align="left" alt="JavaScript" width="45px" src="https://github.com/iamsubashprasad/iamsubashprasad/blob/407ef737dee5ef9e51c1bc3d6257fb6e0eb204e1/sql.png" />][javascripttutorial]
-
-<img align="left" alt="Sass" width="35px" src="https://github.com/iamsubashprasad/iamsubashprasad/blob/21f44449376269e10fa7af6a3b52ffde5239fbd7/Github.png" />
-
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="Node.js" width="50px" src="https://github.com/iamsubashprasad/iamsubashprasad/blob/f2dbfb45b876a34963c2259dcbfdc6c0f14596dc/AWS.jpg" />
-
-<br />
-<br />
-
-
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=iamsubashprasad.iamsubashprasad)
-
-<details>
-<summary>
- More stuff about me
-</summary>
-
-<br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why DigitalUniversityonline.com exists!
-
-#### What is DigitalUniversityonline?
-
-DigitalUniversityonline is a online gurukul who wants to learn the RPA technology along with new trends and frameworks and anything really related to development world.
-
-#### Coding Stats
-
-<!--START_SECTION:waka-->
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsubashprasad&theme=blue-green)
- 
- 
- 
- <!--END_SECTION:waka-->
-
-#### Github Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsubashprasad&theme=merko)
-
-#### GitHub Trophies
-
-<p align="left">
-  <a href="https://github.com/iamsubashprasad" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=iamsubashprasad&theme=gruvbox&layout=compact&title_color=00FF00"/>
-  </a>
-</p>
-
-</details>
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
