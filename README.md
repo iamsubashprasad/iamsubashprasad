@@ -1,6 +1,6 @@
 ## Hi I'm Subash <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<h3>A passionate RPA & Automation developer and a youtuber from India. My passion for software lies with dreaming up ideas and making them come true with intelligent BOT's . I take great care in the experience, architecture, and code quality of the things I build.</h3>
+<h3>Welcome to my GitHub profile! I’m passionate about turning raw data into meaningful insights and building solutions that make data-driven decisions easier and smarter.</h3>
 
 :mailbox: Reach me out!
 
